@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0B459&height=300&section=header&text=DongKyu%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=40&desc=Kyu_velop&descSize=25&descAlign=85&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=DongKyu%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=40&desc=Kyu_velop&descSize=25&descAlign=85&descAlignY=53)
