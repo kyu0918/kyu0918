@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-white?style=flat&logo=SAP&logoColor=#0FAAFF"/></a>&nbsp</a>
+  <img src="https://img.shields.io/badge/SAP-white?style=flat&logo=SAP&logoColor=#0FAAFF"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp</a>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
